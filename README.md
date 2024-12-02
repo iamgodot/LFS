@@ -60,3 +60,4 @@ Besides garbage collection, LFS's performance boost comes from write buffering. 
 - The LFS simulator from OSTEP
 - [Log-structured File System](https://www.cs.yale.edu/homes/aspnes/pinewiki/LogStructuredFilesystem.html)
 - [Log-Structured File Systems](https://ops-class.org/slides/2017-04-17-lfs/)
+- [The Design and Implementation of a Log-Structured File System](https://afterhoursacademic.medium.com/the-design-and-implementation-of-a-log-structured-file-system-20e1509a9ce1)
